@@ -1,0 +1,16 @@
+.row > * {
+  max-width: unset !important;
+  width: fit-content !important;
+}
+
+.container {
+  max-width: unset !important;
+  padding: 25px;
+}
+
+section {
+  border: 1px solid #3d3d3d;
+  border-radius: 8px;
+  padding: 12px;
+  width: 100%;
+}
